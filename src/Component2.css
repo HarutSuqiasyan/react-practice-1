@@ -1,0 +1,36 @@
+.Component2{
+    margin-left: 20px;
+    width: 70%;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    height: 550px;
+}
+h2 {
+    margin-left: 20px;
+    color: #757575;
+    font-size: 34px;
+    font-weight: 500;
+}
+.work__site, h3{
+    margin-left: 20px;
+    color: #757575;
+    font-weight: 700;
+    font-size: large;
+}
+h3{
+    font-weight: 400;
+    font-size: 15px;
+    color: #009688;
+}
+.work__info{
+    margin-left: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #757575;
+}
+
+@media screen and (max-width: 768px) {
+    .App{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
