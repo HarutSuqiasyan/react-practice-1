@@ -6,5 +6,12 @@ body{
 }
 .App{
     margin-top: 20px;
+}
+.dfv{
+    min-height: 300px;
     display: flex;
+}
+.div{
+    display: flex;
+    flex-direction: column;
 }

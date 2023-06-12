@@ -1,8 +1,8 @@
 .Component2{
     margin-left: 20px;
-    width: 70%;
+    width: 93%;
     box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
-    height: 550px;
+    min-height: 550px;
 }
 h2 {
     margin-left: 20px;
@@ -29,8 +29,12 @@ h3{
 }
 
 @media screen and (max-width: 768px) {
-    .App{
+    .dfv{
         flex-wrap: wrap;
         justify-content: center;
+    }
+    .Component2,.Component3, .component__1{
+        justify-content: center;
+        margin-left: 10px !important;
     }
 }

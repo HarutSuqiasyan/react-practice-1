@@ -45,4 +45,4 @@ export function Component2 (){
         </div>
     )
 }
-// Full Responsive max width 355px
+// Full Responsive max width 655px

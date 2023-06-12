@@ -1,0 +1,22 @@
+.Component3{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 93%;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+    min-height: 550px;    
+}
+.Component3 .education {
+    padding-left: 20px;
+}
+.place{
+    color: #757575;
+    font-size: 20px;
+}
+.data{
+    color: #009688;
+}
+.info{
+    color: #757575;
+    padding-top: 5px;
+
+}

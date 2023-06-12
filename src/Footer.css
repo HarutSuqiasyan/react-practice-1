@@ -1,0 +1,20 @@
+.footer{
+    height: 200px;
+    background-color: #009688;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.footer__p{
+    color: #fff
+}
+.social__sites{
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+}
+.powered__by, a{
+    color: #fff;
+}
